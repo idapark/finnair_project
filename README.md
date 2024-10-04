@@ -9,6 +9,7 @@ This project was made during my internship at Finnair, designed to assist aviati
 - **Computation**: Compute the result based on input parameters.
 - **CSV Data Parsing**: The app loads CSV files based on the parameters and calculates results.
 - **Interactive UI**: Includes sliders, pickers, and segmented controls to allow easy and accurate data input for users.
+- **Adaptivity**: The application supports portrait and landscape mode, in addition to light and dark mode.
 
 ## Key Components
 - **TableView Cells**: Custom cells (slider, picker, time picker, custom etc.) that allow users to input data for different aircraft parameters.
