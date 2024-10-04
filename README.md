@@ -1,7 +1,7 @@
 # Finnair Project
 
 ## Overview
-This project was made during my internship at Finnair, designed to assist aviation professionals. The EFB app allows users to input specific parameters, and the application gives an output based on these parameters.
+This project was designed and developed during my internship at Finnair, designed to assist aviation professionals. The EFB app allows users to input specific parameters, and the application gives an output based on these parameters.
 
 ## Features
 - **Aircraft Selection**: Choose from various aircraft models with corresponding parameters.
@@ -25,7 +25,19 @@ This project was made during my internship at Finnair, designed to assist aviati
 - iOS 13.0+
 - Swift 5.0+
 
-![picture1](./images/IMG_1.jpg)
-![picture2](./images/IMG_2.jpg)
-![picture3](./images/IMG_3.jpg)
-![picture4](./images/IMG_4.jpg)
+## Images
+&nbsp;
+- Portrait (light & dark)
+<div style="display: flex; justify-content: center;">
+    <img src="./images/IMG_1.jpg" alt="picture1" width="500" />
+    <img src="./images/IMG_2.jpg" alt="picture2" width="500" />
+</div>
+
+&nbsp;
+- Landscape (light & dark)
+
+<img src="./images/IMG_3.jpg" alt="picture3" width="1000" />
+<img src="./images/IMG_4.jpg" alt="picture4" width="1000" />
+
+
+
