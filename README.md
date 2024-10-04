@@ -1,7 +1,7 @@
 # Finnair Project
 
 ## Overview
-This project was designed and developed during my internship at Finnair summer 2024 to the EFB (Electronic Flight Bag). The EFB app allows users to input specific parameters, and the application gives an output based on these parameters. The application was developed using Swift UIKit.
+This project was designed and developed during my internship at Finnair summer 2024 to the iPad EFB (Electronic Flight Bag). The EFB app allows users to input specific parameters, and the application gives an output based on these parameters. The application was developed using Swift UIKit.
 
 ## Features
 - **Aircraft Selection**: Choose from various aircraft models with corresponding parameters.
