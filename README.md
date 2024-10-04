@@ -24,3 +24,8 @@ This project was made during my internship at Finnair, designed to assist aviati
 ## Requirements
 - iOS 13.0+
 - Swift 5.0+
+
+![picture1](./images/IMG_0015 2.jpg)
+![picture2](./images/IMG_0016 2.jpg)
+![picture3](./images/IMG_0020 2.jpg)
+![picture4](./images/IMG_0018 2.jpg)
