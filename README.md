@@ -1,7 +1,7 @@
 # Finnair Project
 
 ## Overview
-This project was made during my internship at Finnair, designed to assist aviation professionals. The app allows users to input specific parameters, and the application gives an output based on these parameters.
+This project was made during my internship at Finnair, designed to assist aviation professionals. The EFB app allows users to input specific parameters, and the application gives an output based on these parameters.
 
 ## Features
 - **Aircraft Selection**: Choose from various aircraft models with corresponding parameters.
